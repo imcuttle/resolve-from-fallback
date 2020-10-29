@@ -1,6 +1,6 @@
 /**
  * Resolve the path of a module like `require.resolve()` but from some fallback path
- * @author 余聪
+ * @author imcuttle
  */
 import * as resolveFrom from 'resolve-from'
 

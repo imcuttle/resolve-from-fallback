@@ -2,7 +2,7 @@
   "name": "resolve-from-fallback",
   "version": "1.0.0",
   "description": "Resolve the path of a module like `require.resolve()` but from some fallback path",
-  "author": "余聪 <yucong06@meituan.com>",
+  "author": "imcuttle <imcuttle@163.com>",
   "scripts": {
     "test": "npx ava",
     "test:watch": "npm test -- --watch",
@@ -33,7 +33,7 @@
     "src"
   ],
   "keywords": [
-    "余聪",
+    "imcuttle",
     "resolve",
     "from",
     "fallback",
@@ -42,7 +42,7 @@
   "main": "lib",
   "types": "types",
   "license": "MIT",
-  "repository": "余聪/resolve-from-fallback",
+  "repository": "imcuttle/resolve-from-fallback",
   "module": "es",
   "ava": {
     "files": [
